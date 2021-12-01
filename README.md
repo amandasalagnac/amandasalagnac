@@ -1,8 +1,10 @@
 ## Olá! Eu sou a Amanda Salagnac 👋
 - 👩‍🚀 Iniciante em programação
+- ⚡ Primeiros passos em Desenvolvimento Web
+- ✨ Apaixonada por Design de Interface
 - 🌱 Estudando ReactJS
 - 🔭 Viso trabalhar com front-end
-- 😄 Pronouns: ela/dela
+- 😀 Pronouns: ela/dela
 <div align="center">
   <a href="https://github.com/amandasalagnac">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amandasalagnac&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
